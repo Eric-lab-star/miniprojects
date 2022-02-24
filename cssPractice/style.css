@@ -1,0 +1,23 @@
+body {
+  margin: 0px;
+}
+.boxContainer {
+  background-color: gray;
+  margin: 0px;
+  display: flex;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+}
+.a {
+  background-color: red;
+}
+
+.b {
+  background-color: blue;
+}
+.c {
+  background-color: green;
+}
